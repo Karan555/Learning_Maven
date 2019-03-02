@@ -35,4 +35,10 @@ public class AppTest
     {
         assertTrue( true );
     }
+    public void verifylogin(){
+    	assertTrue(false);
+    }
+    public void testsignup(){
+    	assertTrue(false);
+    }
 }
