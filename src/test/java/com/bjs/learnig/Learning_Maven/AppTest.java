@@ -43,5 +43,6 @@ public class AppTest
     }
     public void test(){
     	assertTrue(false);
+    	assertTrue(false);
     }
 }
