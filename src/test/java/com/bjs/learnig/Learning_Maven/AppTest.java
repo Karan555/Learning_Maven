@@ -41,8 +41,10 @@ public class AppTest
     public void testsignup(){
     	assertTrue(false);
     }
-    
     public void testSignIn(){
+    	assertTrue(false);
+    }
+    public void test(){
     	assertTrue(false);
     }
 }
