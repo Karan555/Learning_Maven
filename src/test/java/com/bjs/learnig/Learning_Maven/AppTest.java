@@ -55,4 +55,7 @@ public class AppTest extends TestCase {
 	public void testPayment() {
 		assertTrue(false);
 	}
+	public void testMEnu(){
+		assertTrue(true);
+	}
 }
